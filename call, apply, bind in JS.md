@@ -13,9 +13,9 @@
 let name1 = {
   firstName: "Trupti",
   lastName: "Yadav",
-  printInfo: function (city, county) {
+  printInfo: function (city, country) {
     console.log(
-      this.firstName + " " + this.lastName + " is from " + city + ", " + county
+      this.firstName + " " + this.lastName + " is from " + city + ", " + country
     );
   },
 };
