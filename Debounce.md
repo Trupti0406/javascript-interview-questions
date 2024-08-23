@@ -1,6 +1,6 @@
 # Q. What is Debouncing in JavaScript?
 
-### Debouncing is a technique used to control how often a function is executed. Imagine you're typing in a search box—without debouncing, the search function might try to run on every single keystroke, which can overwhelm the system with too many requests. With debouncing, we wait until the user has stopped typing for a short moment before running the search. This not only reduces unnecessary API calls but also improves performance. Debouncing is also useful in other situations, like when resizing a window or scrolling, where we only want to take action after the user has finished their interaction.
+### Debouncing is a technique that controls how often a function is executed. Imagine you're typing in a search box—without debouncing, the search function might try to run on every single keystroke, which can overwhelm the system with too many requests. With debouncing, we wait until the user has stopped typing for a short moment before running the search. This not only reduces unnecessary API calls but also improves performance. Debouncing is also useful in other situations, like when resizing a window or scrolling, where we only want to take action after the user has finished their interaction.
 
 ### HTML
 
@@ -76,4 +76,4 @@ const debouncedData = debounce(getData, 500);
 5. **Why is `clearTimeout` needed?**
    - `clearTimeout` is used to cancel the previous timeout if the debounced function is called again before the delay expires. Without it, multiple timeouts would accumulate, potentially causing the function to be executed multiple times, which could negate the benefits of debouncing.
 
-## [Link to live example](https://codepen.io/trupti0406/pen/RwzyWwK)
+### [Link to live example](https://codepen.io/trupti0406/pen/RwzyWwK)
