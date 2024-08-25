@@ -23,7 +23,7 @@ const debounce = function (fn, delay) {
   return function () {
     clearTimeout(timer);
     timer = setTimeout(() => {
-      fn;
+      fn();
     }, delay);
   };
 };
