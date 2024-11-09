@@ -18,4 +18,4 @@ Click on any question below to view the detailed answer.
 
 I created this repository so I don't need to visit multiple spaces, sites, and videos to find answers. 
 ### Give a ⭐️ if this repository helped you!
-### All answers here are based on my studies from various resources, mainly from [Akshay Saini](https://www.youtube.com/@akshaymarch7) and [Great Frontend](https://www.greatfrontend.com/).
+#### All answers here are based on my studies from various resources, mainly from [Akshay Saini](https://www.youtube.com/@akshaymarch7) and [Great Frontend](https://www.greatfrontend.com/).
