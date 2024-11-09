@@ -34,4 +34,4 @@ The **event loop** is a concept within the browser runtime environment that defi
 5. **Continuous Cycle**
    - This process runs indefinitely, allowing JavaScript to handle synchronous and asynchronous operations efficiently without blocking the call stack.
 
-### The best video explanation I have come across EVER: [Event Loop by Lydia Hallie](https://example.com)
+### The best video explanation I have come across EVER: [Event Loop by Lydia Hallie](https://www.youtube.com/watch?v=eiC58R16hb8)
