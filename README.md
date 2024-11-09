@@ -18,3 +18,7 @@ Click on any question below to view the detailed answer.
 
 I created this repository so I don't need to visit multiple spaces, sites, and videos to find answers. 
 ### All answers here are based on my studies from various resources, mainly from [Akshay Saini](https://www.youtube.com/@akshaymarch7) and [Great Frontend](https://www.greatfrontend.com/).
+
+## ✨ Show your support
+
+Give a ⭐️ if this repository helped you!
