@@ -20,7 +20,7 @@ Click on any question below to view the detailed answer.
 
 ##### 7. [How Does Throttling Work?](./Throttling.md)
 
-##### 7. [What is Event Bubbling and Event Capturing in JavaScript?](./Event%20Bubbling%20and%20Capturing.md)
+##### 8. [What is Event Bubbling and Event Capturing in JavaScript?](./Event%20Bubbling%20and%20Capturing.md)
 
 ---
 
