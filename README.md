@@ -13,7 +13,8 @@ Click on any question below to view the detailed answer.
 #### 5. [What is the Event Loop in JavaScript?](./Event%20Loop.md)
 #### 6. [How Does Debounce Work?](./Debounce.md)
 #### 7. [How Does Throttling Work?](./Throttling.md)
-#### 8. [What is Event Bubbling and Event Capturing in JavaScript?](./Event Bubbling and Capturing.md)
+#### 8. [[What is Event Bubbling and Event Capturing in JavaScript?](./Event Bubbling and Capturing.md)
+
 
 ---
 
