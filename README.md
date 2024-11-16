@@ -22,6 +22,8 @@ Click on any question below to view the detailed answer.
 
 #### 8. [What is Event Bubbling and Event Capturing in JavaScript?](./Event%20Bubbling%20and%20Capturing.md)
 
+#### 9. [What is a closure in JavaScript? Explain with an example.](./Closures.md)
+
 ---
 
 I created this repository so I don't need to visit multiple spaces, sites, and videos to find answers.
