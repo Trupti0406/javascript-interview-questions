@@ -24,6 +24,8 @@ Click on any question below to view the detailed answer.
 
 #### 9. [What is a closure in JavaScript? Explain with an example.](./Closures.md)
 
+#### 10.[What are callbacks and callback functions in JavaScript?](./Callback.md)
+
 ---
 
 I created this repository so I don't need to visit multiple spaces, sites, and videos to find answers.
